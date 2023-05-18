@@ -14,4 +14,4 @@ replace the default configuration with this ->
 `
 now run `python3 manage.py migrate && python3 manage.py migrate`
 after words run `python3 manage.py createsuperuser`
-and then run 
+and then run `python3 manage.py run server`
