@@ -1,5 +1,5 @@
 # kenyachineesbackend
-run code by `manage.py runserver` -> ensure you are in the directory where manage.py is
+run code by `python3 manage.py runserver` -> ensure you are in the directory where manage.py is
 if it doest work download django by running 
 `pip3 install django`
 configure the sql if it givs you an error by
